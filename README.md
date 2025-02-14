@@ -63,7 +63,7 @@ Ensure you have the following installed on your system:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/askarbtw/todoapp-golang.git
-   cd todoapp-golang
+   cd todoapp-golang/todolist
    ```
 2. **Run the application in development mode:**
    ```sh
